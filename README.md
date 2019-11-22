@@ -7,7 +7,7 @@ Write 2 stored procedures:
 2) For DB restoration from stored set of backups with date parameter
 
 ## Task 2
-Write stored procedure which displays all user writes for each table in current DB
+Write stored procedure which displays all user rights for each table in current DB
 
 ## Task 3
 Write script for splitting a real table populated with data.
